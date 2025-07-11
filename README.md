@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdavs0116&label=Profile%20views&color=0e75b6&style=flat" alt="firdavs0116" /> </p>
 
-- 💬 Ask me about **C, Python**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **xakimovfirdavs0116@gmail.com**
 
